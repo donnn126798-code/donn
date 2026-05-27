@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "Ruang Tumbuh Profesional Indonesia. Platform terpadu untuk UMKM dan Freelancer dalam membangun portofolio, mengelola proyek, dan terhubung dengan komunitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
